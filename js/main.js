@@ -14,3 +14,5 @@ let secret=nome+cognome+colore+numero;
 
 document.getElementById("secret-psw").innerHTML= msg+secret;
 
+alert(secret);
+
