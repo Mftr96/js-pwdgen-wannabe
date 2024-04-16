@@ -1,5 +1,9 @@
 const numero="#24";
 
-let pswbucata= prompt();
+let nome= prompt("inserisci il tuo nome");
 
-document.getElementById(password-bucata).innerHTML= "pswbucata"+"numero";
+let cognome=prompt("inserisci il cognome");
+
+let colore=prompt("inserisci il colore preferito");
+
+document.getElementById("bucata").innerHTML= nome+cognome+colore+numero;
